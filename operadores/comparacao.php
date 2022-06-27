@@ -5,7 +5,13 @@ $numero2 = 20;
 
 
 var_dump($numero1> $numero2) ;
+
+"</br>";
+
 var_dump($numero1<$numero2) ;
+
+"</br>";
+var_dump($numero1 != $numero2)
 
 
 
